@@ -48,7 +48,7 @@ Self-hosted personal finance insights from CSV imports.
 - Category breakdowns & trends  
 - Full exports (CSV / JSON)
 
-**Repository:** Coming soon…
+**Repository:** [Finance Dashboard](https://github.com/slate-works/financialDashboard)
 
 </td>
 <td width="33%" valign="top">
