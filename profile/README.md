@@ -62,7 +62,7 @@ Gamified workout tracking focused on motivation and progression.
 - Progress over time  
 - Own your training data
 
-**Repository:** Coming soon…
+**Repository:** [Ranked Workout App](https://github.com/slate-works/ranked-workout-app)
 
 </td>
 <td width="33%" valign="top">
